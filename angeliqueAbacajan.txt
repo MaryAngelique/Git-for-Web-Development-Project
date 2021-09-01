@@ -1,5 +1,5 @@
 Codepen url: https://codepen.io/maryangelique/pen/vYZLrML 
- -This is a completed project with answered questionnaire. 
+ -This is a completed HTML & CSS project with answered questionnaire. 
 Copy the questions below into the first-lastname.txt file on your github repo - answer each question and then push your changes. 
 
     1. What is Semantic HTML? 
@@ -78,14 +78,14 @@ Copy the questions below into the first-lastname.txt file on your github repo - 
             git push
     37. Walk me through Lambda's git flow. 
                 Fork
-                Clone the SSH
+                Copy the SSH
                 Open Terminal
                 Cd to the File or folder
                 git clone git@giturl
                 cd to the file folder
                 branch= git checkout -b firstname:lastname
                 Switch to branch message
-                Do project or change something
+                Do project or change something in the project
                 git status
                 git add .
                 git commit -m "Message"
