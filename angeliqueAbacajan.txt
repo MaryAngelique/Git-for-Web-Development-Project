@@ -99,14 +99,16 @@ Stretch Questions
     2. What happens when an element is positioned absolutely? 
                 It sits on its own layer separate from everything else
     3. How do I make an element take up only the amount of space it needs but also have the ability to give it a width? 
+                justify-content 
     4. Name 3 elements that are display block by default, 2 elements that are display inline by default and 1 element that is display inline-block by default
+                <article></article>
                 <address></address>
-                <div></div>
                 <p></p>
     5. In your own words, explain the box model. What is the "fix" for the box model, in other words, how do we make all elements respect the width we've given them? 
                 Box Model is the design and layout (blocked and inline boxes)
-                The fix of box model isI believe the 4 components/4 parts Content, Padding, Border, Margin
-                Is it the width: 100%;?
+                The fix of box model is, I believe, are the 4 components/4 parts Content, Padding, Border, Margin
+                Is it the width: 100px;
+                height: 100px
 
 
                 Mary Angelique Abacajan
